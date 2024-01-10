@@ -1,3 +1,3 @@
-my custom-react-landing-page 
+my custom-react-landing-page
 
-original template : 
+original template : https://github.com/issaafalkattan/React-Landing-Page-Template
